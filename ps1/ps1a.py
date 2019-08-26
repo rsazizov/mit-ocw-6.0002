@@ -149,7 +149,7 @@ def compare_cow_transport_algorithms():
     print(time.time() - start, 's', sep='')
     print('Result', len(bf))
 
-    print('brute_force_cow_transport')
+    print('greedy_cow_transport')
 
     start = time.time()
     bf = greedy_cow_transport(cows, limit)
