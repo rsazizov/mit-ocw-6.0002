@@ -29,7 +29,7 @@ This repo contains the code for [MIT OCW 6.0002](https://ocw.mit.edu/courses/ele
 | Problem Set    |   Topics | Finished |
 | ---            |   ---     |  ---     |
 | Problem Set 1  | Knapsack, Greedy, Dynamic Programming | Yes |
-| Problem Set 2  | TODO | No |
+| Problem Set 2  | DFS, Shortest path in a weighted graph | Yes |
 | Problem Set 3  | TODO | No |
 | Problem Set 4  | TODO | No |
 | Problem Set 5  | TODO | No |
