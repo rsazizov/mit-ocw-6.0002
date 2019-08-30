@@ -4,33 +4,31 @@ This repo contains the code for [MIT OCW 6.0002](https://ocw.mit.edu/courses/ele
 
 ## Lectures
 
-| Lecture      | Topics | Finished |
-| ---          | ---     | ---      |
-| Lecture 1            | Knapsack Problem, Greedy algorithms | Yes |
-| Lecture 2            | Search Trees, Dynamic Programming | Yes |
-| Lecture 3            | Graphs, DFS, BFS, Shortest path | Yes |
-| Lecture 4            | TODO | No |
-| Lecture 5            | TODO | No |
-| Lecture 6            | TODO | No |
-| Lecture 7            | TODO | No |
-| Lecture 8            | TODO | No |
-| Lecture 9            | TODO | No |
-| Lecture 10            | TODO | No |
-| Lecture 11           | TODO | No |
-| Lecture 12            | TODO | No |
-| Lecture 13            | TODO | No |
-| Lecture 14            | TODO | No |
-| Lecture 15            | TODO | No |
-
-
+| Lecture      | Topics |
+| ---          | ---     |
+| Lecture 1            | Knapsack Problem, Greedy Algorithms |
+| Lecture 2            | Search Trees, Dynamic Programming |
+| Lecture 3            | Graphs, DFS, BFS, Shortest Path |
+| Lecture 4            | Stochastic Thinking |
+| Lecture 5            | Random Walks |
+| Lecture 6            | TODO |
+| Lecture 7            | TODO |
+| Lecture 8            | TODO |
+| Lecture 9            | TODO |
+| Lecture 10           | TODO |
+| Lecture 11           | TODO |
+| Lecture 12           | TODO |
+| Lecture 13           | TODO |
+| Lecture 14           | TODO |
+| Lecture 15           | TODO |
 
 ## Problem Sets
 
-| Problem Set    |   Topics | Finished |
-| ---            |   ---     |  ---     |
-| Problem Set 1  | Knapsack, Greedy, Dynamic Programming | Yes |
-| Problem Set 2  | DFS, Shortest path in a weighted graph | Yes |
-| Problem Set 3  | TODO | No |
-| Problem Set 4  | TODO | No |
-| Problem Set 5  | TODO | No |
+| Problem Set    |   Topics |
+| ---            |   ---     |
+| Problem Set 1  | Knapsack, Greedy, Dynamic Programming |
+| Problem Set 2  | DFS, Shortest Path in a Weighted Graph |
+| Problem Set 3  | TODO |
+| Problem Set 4  | TODO |
+| Problem Set 5  | TODO |
 
