@@ -11,7 +11,7 @@ This repo contains the code for [MIT OCW 6.0002](https://ocw.mit.edu/courses/ele
 | Lecture 3            | Graphs, DFS, BFS, Shortest Path |
 | Lecture 4            | Stochastic Thinking |
 | Lecture 5            | Random Walks |
-| Lecture 6            | TODO |
+| Lecture 6            | Monte Carlo Methods |
 | Lecture 7            | TODO |
 | Lecture 8            | TODO |
 | Lecture 9            | TODO |
