@@ -12,7 +12,7 @@ This repo contains the code for [MIT OCW 6.0002](https://ocw.mit.edu/courses/ele
 | Lecture 4            | Stochastic Thinking |
 | Lecture 5            | Random Walks |
 | Lecture 6            | Monte Carlo Methods |
-| Lecture 7            | TODO |
+| Lecture 7            | Confidence Intervals, Central Limit Theorem |
 | Lecture 8            | TODO |
 | Lecture 9            | TODO |
 | Lecture 10           | TODO |
